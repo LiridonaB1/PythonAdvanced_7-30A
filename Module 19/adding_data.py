@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import plotly.express as px
+
 
 
 books_df = pd.read_csv("file1.csv")
